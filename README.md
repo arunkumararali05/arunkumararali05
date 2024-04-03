@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Arun Kumar Arali
+- 👀 I’m interested in ...web development, coding, software.
+- 🌱 I’m currently pursuing ...Master Computer Applications @ R V College of Engineering
+- 💞️ I’m looking to collaborate on ...software projects
+- 📫 How to reach me ...Email: araliarunkumar@gmail.com
+- ⚡ Fun fact: ...1st Rule Of Programming: If It Works Don't Touch It.
+- ...............2nd Rule: Never Forget Rule 1.
