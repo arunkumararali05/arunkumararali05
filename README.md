@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on ...software projects
 - 📫 How to reach me ...Email: araliarunkumar@gmail.com
 - ⚡ Fun fact: ...1st Rule Of Programming: If It Works Don't Touch It.
-- ...............2nd Rule: Never Forget Rule 1.
+- .....................2nd Rule: Never Forget Rule 1.
